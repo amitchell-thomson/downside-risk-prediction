@@ -1,4 +1,4 @@
-# **Alpha Fund Project**
+# **Downside Risk Prediction**
 
 Collaborative quantitative finance + data analysis project.
 
